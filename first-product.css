@@ -1,0 +1,25 @@
+body {
+    width: 100%;
+    background-image:url(logo.jpg);
+    background-size: cover;
+}
+header {
+    height: 100px;
+}
+
+header h1{
+    float: left;
+}
+
+header a{
+    margin-right: 20px;
+}
+
+.list {
+    float: right;
+    line-height: 100px;
+}
+
+.container{
+    margin: 200px 80px;
+}
